@@ -1,7 +1,7 @@
-body { background: blue; font-family: "Comic Sans MS"; }
+body { background: red; font-family: "Comic Sans MS"; font-color:red; }
 
 h1 {text-align:center; font-weight:bold; font-style:italic; }
 <h1> 6K:183 </h1>
 
-h2 {text-align:center; font-weight:bold; font-style:italic; font-color:red; }
-<h2> 6k:100 </h2>
+h2 {text-align:center; font-weight:bold; font-style:italic; }
+<h2> <font size='80' </h2>
